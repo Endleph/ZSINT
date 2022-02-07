@@ -8,3 +8,9 @@ https://api.mylnikov.org/, https://www.infos-numero.com
 https://ipapi.co/, https://isitarealemail.com
 
 https://www.annuaire-inverse.mobi
+
+# Required Library
+You must install cpr
+
+https://github.com/libcpr/cpr
+
