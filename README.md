@@ -16,4 +16,8 @@ https://github.com/libcpr/cpr
 
 # How to use
 
+Compile code or download .exe release.
+
+`zsint help` for see all commands
+
 
