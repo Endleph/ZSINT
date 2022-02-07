@@ -1,7 +1,7 @@
 # ZSINT
 This is a simple cpp osint software  which uses a lot of api. I'm a beginner so please be indulgent
 
-This software use the following Api:
+This software use the following API:
 
 https://api.mylnikov.org/, https://www.infos-numero.com
 
