@@ -10,7 +10,7 @@ https://ipapi.co/, https://isitarealemail.com
 https://www.annuaire-inverse.mobi
 
 # Required Library
-You must install cpr
+You must install cpr & boost 
 
 https://github.com/libcpr/cpr
 
