@@ -14,6 +14,10 @@ You must install cpr & boost
 
 https://github.com/libcpr/cpr
 
+# Preview
+![Picture]https://i.ibb.co/fqzjZTz/Zsint.png
+
+
 # How to use
 
 Compile code or download .exe release.
